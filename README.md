@@ -12,7 +12,7 @@ Random choice picker is an app that utilizes HTML | CSS | JAVASCRIPT. It helps u
 
 ## To get a local copy up and running follow these simple example steps.
 
-- Clone this repo to your machine by using Git clone: Git clone `https://github.com/DuaneDave/LeaderBoard`
+- Clone this repo to your machine by using Git clone: Git clone `https://github.com/DuaneDave/Ranndom-Choice-Picker.git`
 - open in your vs code terminal and run live server
 - `npm install -g @lhci/cli@0.7.x`
 - `npm install --save-dev hint@6.x`
@@ -36,7 +36,7 @@ Random choice picker is an app that utilizes HTML | CSS | JAVASCRIPT. It helps u
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/DuaneDave/LeaderBoard/issues).
+Feel free to check the [issues page](https://github.com/DuaneDave/Ranndom-Choice-Picker/issues).
 
 ## Show your support
 
