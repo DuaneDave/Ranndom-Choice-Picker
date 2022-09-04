@@ -4,6 +4,8 @@
 
 Random choice picker is an app that utilizes HTML | CSS | JAVASCRIPT. It helps user's to pick from a list of choices right at the moment of indecision.
 
+![screenshot](./asset/img1.png)
+
 ## Built With
 
 - HTML.
@@ -23,6 +25,10 @@ Random choice picker is an app that utilizes HTML | CSS | JAVASCRIPT. It helps u
 - `npx hint .`
 - `npx stylelint "\*_/_.{css,scss}"`
 - `npx eslint .`
+
+### LIVE DEMO
+
+Check the live demo here [LINK](https://duanedave.github.io/Ranndom-Choice-Picker/)
 
 ## Authors
 
